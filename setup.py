@@ -233,7 +233,7 @@ if __name__ == "__main__":
             "colorama",
             "deprecation",
             "pytest-benchmark",
-            "scikit-optimize==0.8.1",
+            "scikit-optimize==0.9.0",
             "scikit-learn==0.24.2",
             "numpy",
             "flask",
